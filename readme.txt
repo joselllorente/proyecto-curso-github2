@@ -1,1 +1,2 @@
 Fichero readme del proyecto GIT recuperado del commit
+Nueva linea
